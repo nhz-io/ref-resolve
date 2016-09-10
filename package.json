@@ -5,7 +5,6 @@
   "main": "index.js",
   "scripts": {
     "test": "node test.js",
-    "install": "node test.js",
     "prepublish": "node test.js"
   },
   "repository": {
@@ -24,6 +23,6 @@
   },
   "homepage": "https://github.com/nhz-io/ref-resolve",
   "dependencies": {
-    "@nhz.io/ref-node": "^1.0.6"
+    "@nhz.io/ref-node": "^1.0.8"
   }
 }
