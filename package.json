@@ -1,0 +1,29 @@
+{
+  "name": "@nhz.io/ref-resolve",
+  "version": "1.0.0",
+  "description": "JSON references resolver",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "install": "npm test",
+    "prepublish": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nhz-io/ref-resolve.git"
+  },
+  "keywords": [
+    "ref-resolve",
+    "resolve",
+    "nhz.io"
+  ],
+  "author": "Ishi Ruy <dev@nhz.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nhz-io/ref-resolve/issues"
+  },
+  "homepage": "https://github.com/nhz-io/ref-resolve",
+  "dependencies": {
+    "@nhz.io/ref-node": "^1.0.5"
+  }
+}
