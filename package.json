@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/nhz-io/ref-resolve",
   "dependencies": {
-    "@nhz.io/ref-node": "^1.0.5"
+    "@nhz.io/ref-node": "^1.0.6"
   }
 }
