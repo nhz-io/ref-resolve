@@ -1,6 +1,6 @@
 {
   "name": "@nhz.io/ref-resolve",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "JSON references resolver",
   "main": "index.js",
   "scripts": {
